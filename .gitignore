@@ -20,4 +20,3 @@ bin/
 #ignore any IDE based files
 .idea/**
 vendor/
-SCTestServer/sc-testserver
